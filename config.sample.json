@@ -1,0 +1,26 @@
+{
+  "baseChain": {
+    "hostURL": "http://11.11.11.11:7000",
+    "senderWallets": [
+      {
+        "address": "",
+        "passphrase": ""
+      }
+    ],
+    "dexWallet": {
+      "address": ""
+    }
+  },
+  "quoteChain": {
+    "hostURL": "http://11.11.11.11:7010",
+    "senderWallets": [
+      {
+        "address": "",
+        "passphrase": ""
+      }
+    ],
+    "dexWallet": {
+      "address": ""
+    }
+  }
+}

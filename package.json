@@ -1,0 +1,32 @@
+{
+  "name": "lisk-dex-e2e-tests",
+  "version": "1.0.0",
+  "description": "Lisk DEX end to end tests",
+  "main": "index.js",
+  "dependencies": {
+    "@liskhq/lisk-cryptography": "^2.2.0",
+    "@liskhq/lisk-transactions": "^2.3.1",
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --reporter spec --timeout 120000 --slow 120000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondubois/lisk-dex-e2e-tests.git"
+  },
+  "keywords": [
+    "lisk",
+    "dex",
+    "e2e"
+  ],
+  "author": "Jonathan Gros-Dubois",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jondubois/lisk-dex-e2e-tests/issues"
+  },
+  "homepage": "https://github.com/jondubois/lisk-dex-e2e-tests#readme"
+}
