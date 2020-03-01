@@ -12,7 +12,7 @@
     "mocha": "^7.1.0"
   },
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha --reporter spec --timeout 120000 --slow 120000"
+    "test": "node_modules/mocha/bin/mocha --reporter spec --timeout 360000 --slow 360000"
   },
   "repository": {
     "type": "git",
