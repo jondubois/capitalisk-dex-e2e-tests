@@ -1,5 +1,5 @@
-# lisk-dex-e2e-tests
-End to end tests for Lisk DEX on Lisk testnet blockchain.
+# capitalisk-dex-e2e-tests
+End to end tests for Capitalisk DEX on testnet.
 
 ### Usage
 
